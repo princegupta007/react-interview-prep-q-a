@@ -470,9 +470,7 @@
       ```
 
 49. **What are the different types of exports and imports?**
-    - **Answer**: There are named
-
- exports, default exports, and corresponding imports, enabling modular code and reusability.
+    - **Answer**: There are named exports, default exports, and corresponding imports, enabling modular code and reusability.
     - **Example**:
       ```jsx
       // Named export
